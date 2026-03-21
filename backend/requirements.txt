@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+aiosqlite
+python-jose[cryptography]
+passlib[bcrypt]
+bcrypt
+python-multipart
+pydantic
+pydantic-settings
+openai
+websockets
+python-socketio
+aiohttp
+email-validator
